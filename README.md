@@ -1,2 +1,2 @@
 # TODO_js
-Created with CodeSandbox
+HTML,CSS,JavaScriptを用いて作った、todoリストを作れるwebアプリケーションです。
